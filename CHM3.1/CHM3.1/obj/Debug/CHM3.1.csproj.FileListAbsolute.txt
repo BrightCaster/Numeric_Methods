@@ -1,0 +1,14 @@
+E:\ЧМ лабы\CHM3.1\CHM3.1\bin\Debug\CHM3.1.exe.config
+E:\ЧМ лабы\CHM3.1\CHM3.1\bin\Debug\CHM3.1.exe
+E:\ЧМ лабы\CHM3.1\CHM3.1\bin\Debug\CHM3.1.pdb
+E:\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.csprojAssemblyReference.cache
+E:\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.csproj.CoreCompileInputs.cache
+E:\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.exe
+E:\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.pdb
+D:\Флешка\ЧМ лабы\CHM3.1\CHM3.1\bin\Debug\CHM3.1.exe.config
+D:\Флешка\ЧМ лабы\CHM3.1\CHM3.1\bin\Debug\CHM3.1.exe
+D:\Флешка\ЧМ лабы\CHM3.1\CHM3.1\bin\Debug\CHM3.1.pdb
+D:\Флешка\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.csprojAssemblyReference.cache
+D:\Флешка\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.csproj.CoreCompileInputs.cache
+D:\Флешка\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.exe
+D:\Флешка\ЧМ лабы\CHM3.1\CHM3.1\obj\Debug\CHM3.1.pdb

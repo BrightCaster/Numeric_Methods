@@ -1,0 +1,14 @@
+C:\Users\mishka\source\repos\CHM2.2\CHM2.2\bin\Debug\CHM2.2.exe.config
+C:\Users\mishka\source\repos\CHM2.2\CHM2.2\bin\Debug\CHM2.2.exe
+C:\Users\mishka\source\repos\CHM2.2\CHM2.2\bin\Debug\CHM2.2.pdb
+C:\Users\mishka\source\repos\CHM2.2\CHM2.2\obj\Debug\CHM2.2.csprojAssemblyReference.cache
+C:\Users\mishka\source\repos\CHM2.2\CHM2.2\obj\Debug\CHM2.2.csproj.CoreCompileInputs.cache
+C:\Users\mishka\source\repos\CHM2.2\CHM2.2\obj\Debug\CHM2.2.exe
+C:\Users\mishka\source\repos\CHM2.2\CHM2.2\obj\Debug\CHM2.2.pdb
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.2\CHM2.2\bin\Debug\CHM2.2.exe.config
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.2\CHM2.2\bin\Debug\CHM2.2.exe
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.2\CHM2.2\bin\Debug\CHM2.2.pdb
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.2\CHM2.2\obj\Debug\CHM2.2.csprojAssemblyReference.cache
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.2\CHM2.2\obj\Debug\CHM2.2.csproj.CoreCompileInputs.cache
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.2\CHM2.2\obj\Debug\CHM2.2.exe
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.2\CHM2.2\obj\Debug\CHM2.2.pdb

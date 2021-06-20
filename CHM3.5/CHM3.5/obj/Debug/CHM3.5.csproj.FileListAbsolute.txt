@@ -1,0 +1,14 @@
+C:\Users\mishka\source\repos\CHM3.5\CHM3.5\bin\Debug\CHM3.5.exe.config
+C:\Users\mishka\source\repos\CHM3.5\CHM3.5\bin\Debug\CHM3.5.exe
+C:\Users\mishka\source\repos\CHM3.5\CHM3.5\bin\Debug\CHM3.5.pdb
+C:\Users\mishka\source\repos\CHM3.5\CHM3.5\obj\Debug\CHM3.5.csprojAssemblyReference.cache
+C:\Users\mishka\source\repos\CHM3.5\CHM3.5\obj\Debug\CHM3.5.csproj.CoreCompileInputs.cache
+C:\Users\mishka\source\repos\CHM3.5\CHM3.5\obj\Debug\CHM3.5.exe
+C:\Users\mishka\source\repos\CHM3.5\CHM3.5\obj\Debug\CHM3.5.pdb
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM3.5\CHM3.5\bin\Debug\CHM3.5.exe.config
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM3.5\CHM3.5\bin\Debug\CHM3.5.exe
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM3.5\CHM3.5\bin\Debug\CHM3.5.pdb
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM3.5\CHM3.5\obj\Debug\CHM3.5.csprojAssemblyReference.cache
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM3.5\CHM3.5\obj\Debug\CHM3.5.csproj.CoreCompileInputs.cache
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM3.5\CHM3.5\obj\Debug\CHM3.5.exe
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM3.5\CHM3.5\obj\Debug\CHM3.5.pdb

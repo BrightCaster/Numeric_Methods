@@ -1,0 +1,7 @@
+C:\Users\mishka\source\repos\CHM3.4\CHM3.4\bin\Debug\CHM3.4.exe.config
+C:\Users\mishka\source\repos\CHM3.4\CHM3.4\bin\Debug\CHM3.4.exe
+C:\Users\mishka\source\repos\CHM3.4\CHM3.4\bin\Debug\CHM3.4.pdb
+C:\Users\mishka\source\repos\CHM3.4\CHM3.4\obj\Debug\CHM3.4.csprojAssemblyReference.cache
+C:\Users\mishka\source\repos\CHM3.4\CHM3.4\obj\Debug\CHM3.4.csproj.CoreCompileInputs.cache
+C:\Users\mishka\source\repos\CHM3.4\CHM3.4\obj\Debug\CHM3.4.exe
+C:\Users\mishka\source\repos\CHM3.4\CHM3.4\obj\Debug\CHM3.4.pdb

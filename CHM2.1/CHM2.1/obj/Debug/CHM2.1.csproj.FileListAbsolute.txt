@@ -1,0 +1,14 @@
+C:\Users\BrightCaster\source\repos\CHM2.1\CHM2.1\bin\Debug\CHM2.1.exe.config
+C:\Users\BrightCaster\source\repos\CHM2.1\CHM2.1\bin\Debug\CHM2.1.exe
+C:\Users\BrightCaster\source\repos\CHM2.1\CHM2.1\bin\Debug\CHM2.1.pdb
+C:\Users\BrightCaster\source\repos\CHM2.1\CHM2.1\obj\Debug\CHM2.1.csprojAssemblyReference.cache
+C:\Users\BrightCaster\source\repos\CHM2.1\CHM2.1\obj\Debug\CHM2.1.csproj.CoreCompileInputs.cache
+C:\Users\BrightCaster\source\repos\CHM2.1\CHM2.1\obj\Debug\CHM2.1.exe
+C:\Users\BrightCaster\source\repos\CHM2.1\CHM2.1\obj\Debug\CHM2.1.pdb
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.1\CHM2.1\bin\Debug\CHM2.1.exe.config
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.1\CHM2.1\bin\Debug\CHM2.1.exe
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.1\CHM2.1\bin\Debug\CHM2.1.pdb
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.1\CHM2.1\obj\Debug\CHM2.1.csprojAssemblyReference.cache
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.1\CHM2.1\obj\Debug\CHM2.1.csproj.CoreCompileInputs.cache
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.1\CHM2.1\obj\Debug\CHM2.1.exe
+C:\Users\mishka\Desktop\Институт\ЧМ\CHM2.1\CHM2.1\obj\Debug\CHM2.1.pdb

@@ -1,0 +1,14 @@
+C:\Users\mishka\source\repos\ЧМ1.2\ЧМ1.2\bin\Debug\ЧМ1.2.exe.config
+C:\Users\mishka\source\repos\ЧМ1.2\ЧМ1.2\bin\Debug\ЧМ1.2.exe
+C:\Users\mishka\source\repos\ЧМ1.2\ЧМ1.2\bin\Debug\ЧМ1.2.pdb
+C:\Users\mishka\source\repos\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.csprojAssemblyReference.cache
+C:\Users\mishka\source\repos\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.csproj.CoreCompileInputs.cache
+C:\Users\mishka\source\repos\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.exe
+C:\Users\mishka\source\repos\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.pdb
+C:\Users\mishka\Desktop\ЧМ\ЧМ1.2\ЧМ1.2\bin\Debug\ЧМ1.2.exe.config
+C:\Users\mishka\Desktop\ЧМ\ЧМ1.2\ЧМ1.2\bin\Debug\ЧМ1.2.exe
+C:\Users\mishka\Desktop\ЧМ\ЧМ1.2\ЧМ1.2\bin\Debug\ЧМ1.2.pdb
+C:\Users\mishka\Desktop\ЧМ\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.csprojAssemblyReference.cache
+C:\Users\mishka\Desktop\ЧМ\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.csproj.CoreCompileInputs.cache
+C:\Users\mishka\Desktop\ЧМ\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.exe
+C:\Users\mishka\Desktop\ЧМ\ЧМ1.2\ЧМ1.2\obj\Debug\ЧМ1.2.pdb
